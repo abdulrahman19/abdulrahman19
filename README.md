@@ -1,6 +1,6 @@
 **Hi all, Abdulrahman [:sound:](https://www.pronouncenames.com/search?name=abdulrahman) is here :v: :octocat:**
 
-I'm a back-end engineer, really love to programming and I'm in a relationship with APIs :joy:.
+I'm a back-end engineer, really love creating back-end services, geek-out for clean code and architecture, and I'm in a relationship with APIs :joy:.
 
 **:movie_camera: Little information about me:**
 * Currently working in [Afaqy](https://github.com/afaqyco) since 2019
@@ -18,5 +18,7 @@ I'm a back-end engineer, really love to programming and I'm in a relationship wi
 * [Laravel docker compose](https://github.com/abdulrahman19/Laravel-docker-compose) to use Laravel inside Docker
 
 For sorry all my big contributions in private repositories in Gitlab and Bitbucket, but I'll still add more repositories here in the future.
+
+**:incoming_envelope: Say hi,** my Twitter account [@engabdulrahman1](https://twitter.com/engabdulrahman1) and my LinkedIn [profile](https://www.linkedin.com/in/abdulrahman-asaad1989/)
 
 Thanks for you tour :wave:
