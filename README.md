@@ -3,9 +3,10 @@
 I'm a back-end engineer, really love creating back-end services, geek-out for clean code and architecture, and I'm in a relationship with APIs :joy:.
 
 **:movie_camera: Little information about me:**
-* Currently working in [Afaqy](https://github.com/afaqyco) since 2019
+* Currently working in [MyTheresa](https://github.com/mytheresa) since April 2021
 * My primary programming language is PHP [:elephant:](https://www.php.net/)
-* The framework I'm currently dealing with is Laravel [![laravel icon](https://laravel.com/img/favicon/favicon-16x16.png)](https://laravel.com/)
+* The framework I'm currently dealing with is Symfony [![symfony icon](https://symfony.com/favicons/favicon-16x16.png)](https://symfony.com/)  
+   * I have extensive experience with Laravel framework [![laravel icon](https://laravel.com/img/favicon/favicon-16x16.png)](https://laravel.com/)
 * Linux is my home not my OS [:penguin:](https://ubuntu.com/), currently I'm using Ubuntu with Gnome
 * My working environment:
     * Dell laptop
