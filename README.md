@@ -8,10 +8,6 @@ I'm a backend engineer, love creating back-end services, geek-out for clean code
 * The framework I'm currently dealing with is Symfony [![symfony icon](https://symfony.com/favicons/favicon-16x16.png)](https://symfony.com/)  
    * I have extensive experience with the Laravel framework [![laravel icon](https://laravel.com/img/favicon/favicon-16x16.png)](https://laravel.com/)
 * Linux is my home not my OS [:penguin:](https://ubuntu.com/), currently I'm using Ubuntu with Gnome
-* My working environment:
-    * Dell laptop
-    * External screen
-    * Cougar PURI TKL keyboard
 * I really REALLY love CyberPunk atmosphere, pixel art, and neon lights :city_sunset:
 
 **:sparkles: My contributions repositories:**
