@@ -1,7 +1,5 @@
 Hi, 
 
-My name is Abdulrahman [:sound:](https://www.pronouncenames.com/search?name=abdulrahman) or you can just call me Asaad : )
-
 I'm a backend engineer, love creating back-end services, geek-out for clean code and architecture, and I'm in a relationship with APIs!
 
 **🎥 About Me**
